@@ -13,3 +13,4 @@ We present a dataset of law service and facts from precedents in Korea related t
 ## Content
 Exported result is in a csv format and 3 fields are in the file. The field names are as follows, "bsisFacts","aggravated","guilty".
 
+Since aggravated data is small, so we make and share undersampled data with two columns, "text" and "answer". (`undersampling.csv`)
